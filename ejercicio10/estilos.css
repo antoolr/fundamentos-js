@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #32c594; 
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#salida {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    font-weight: bold;
+}
